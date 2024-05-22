@@ -1,0 +1,12 @@
+{
+  "name": "prueba11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ventas.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+  
+}
